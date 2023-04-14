@@ -1,0 +1,22 @@
+<mxfile host="Electron" modified="2023-04-14T15:11:22.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="qBYcvn2-rXi3tzgRTMxW" version="21.1.2" type="device">
+  <diagram name="Page-1" id="H0wz1IlsxG29JuE95awO">
+    <mxGraphModel dx="1100" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JrejViipNZTAxpyAIgZA-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="JrejViipNZTAxpyAIgZA-1" target="JrejViipNZTAxpyAIgZA-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JrejViipNZTAxpyAIgZA-1" value="User searches" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrejViipNZTAxpyAIgZA-2" value="load search results" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="305" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JrejViipNZTAxpyAIgZA-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="540" y="510" width="88" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

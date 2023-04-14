@@ -1,0 +1,11 @@
+{
+  "name": "forkfy",
+  "version": "1.0.0",
+  "description": "Recepie maker",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Aldin Huric",
+  "license": "ISC"
+}
