@@ -1,4 +1,4 @@
-<mxfile host="Electron" modified="2023-04-14T15:23:27.296Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="s3sq_WdxqQy7O0wEknmq" version="21.1.2" type="device">
+<mxfile host="Electron" modified="2023-04-15T02:07:21.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="vML77NcLEfCFhIMkQNMT" version="21.1.2" type="device">
   <diagram name="Page-1" id="H0wz1IlsxG29JuE95awO">
     <mxGraphModel dx="1118" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -85,6 +85,9 @@
         <mxCell id="JrejViipNZTAxpyAIgZA-21" value="Mark seelcted results" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="655" y="465" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JrejViipNZTAxpyAIgZA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JrejViipNZTAxpyAIgZA-23" target="JrejViipNZTAxpyAIgZA-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="JrejViipNZTAxpyAIgZA-23" value="load recepie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="1050" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -94,7 +97,7 @@
         <mxCell id="JrejViipNZTAxpyAIgZA-25" value="Page laods with recepie id" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="1">
           <mxGeometry x="840" y="625" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JrejViipNZTAxpyAIgZA-27" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="JrejViipNZTAxpyAIgZA-27" value="render recepie" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1260" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
